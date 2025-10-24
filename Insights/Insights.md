@@ -44,7 +44,7 @@ Essa constância indica que **o problema é estrutural** — não pontual — e 
 Apesar de representar o **maior volume de vendas**, os chips móveis **contribuem com menos de 10% da rentabilidade total da empresa**.
 Isso mostra que o produto tem **baixo retorno financeiro** e **alto custo de manutenção**, já que exige esforço constante para aquisição e reposição de clientes.
 
-| ![porcentagem_receita_dispositivo](../Imagens/porcentagem_receita_dispositivo.png) | ![porcentagem_compras_dispositivo](../Imagens/percentual_compras_dispositivos.png) |
+| ![porcentagem_receita_dispositivo](../Imagens/porcentagem_receita_dispositivo.png) | ![percentual_compras_dispositivos](../Imagens/percentual_compras_dispositivos.png) |
 |:--:|:--:|
 | **% de Receita por Dispositivo** | **% de Compras por Dispositivo** |
 
