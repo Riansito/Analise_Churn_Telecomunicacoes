@@ -18,12 +18,9 @@ Ao analisar o comportamento de cancelamento por tipo de dispositivo, observamos 
 
 * Foram **301 chips vendidos**
 * Desses, **91 foram cancelados**
-
-
-
 Isso resulta em uma **taxa de churn aproximada de 31,1%**, sendo **a mais alta entre todos os produtos**.
 
-![cancelamento_dispositivo](../Imagens/cancelamento_dispositivo.png)
+<img width="436" height="307" alt="cancelamento_dispositivo" src="https://github.com/user-attachments/assets/4acf91a4-3bc3-4103-8425-e83a89ec5c72" />
 
 Essa descoberta mostra que o **produto mais vendido** é também o **que mais contribui para o aumento da taxa de churn**.
 
@@ -33,7 +30,7 @@ Essa descoberta mostra que o **produto mais vendido** é também o **que mais co
 
 Analisando a evolução dos cancelamentos ao longo do tempo, é possível perceber que **os chips móveis mantêm altos níveis de churn em praticamente todos os meses**.
 
-![cancelamento_meses_dispositivos](../Imagens/cancelamento_meses_dispositivos.png)
+<img width="550" height="379" alt="cancelamento_meses_dispositivos" src="https://github.com/user-attachments/assets/cb5ccb4d-824b-4145-8b62-07e778ce9ed2" />
 
 Essa constância indica que **o problema é estrutural** — não pontual — e está **ligado à experiência do cliente com o produto.**
 
@@ -41,19 +38,23 @@ Essa constância indica que **o problema é estrutural** — não pontual — e 
 
 ## 💰 **3. Relação entre Rentabilidade e Churn**
 
+
 Apesar de representar o **maior volume de vendas**, os chips móveis **contribuem com menos de 10% da rentabilidade total da empresa**.
 Isso mostra que o produto tem **baixo retorno financeiro** e **alto custo de manutenção**, já que exige esforço constante para aquisição e reposição de clientes.
 
-| ![porcentagem_receita_dispositivo](../Imagens/porcentagem_receita_dispositivo.png) | ![percentual_compras_dispositivos](../Imagens/percentual_compras_dispositivos.png) |
+| <img width="527" height="315" alt="porcentagem_receita_dispositivo" src="https://github.com/user-attachments/assets/9c1c5264-10e8-4bb5-b865-8e0656744973" /> | <img width="605" height="312" alt="percentual_compras_dispositivos" src="https://github.com/user-attachments/assets/0a6a8fbd-a81e-41d1-be30-ab94be7b830e" /> |
 |:--:|:--:|
 | **% de Receita por Dispositivo** | **% de Compras por Dispositivo** |
+
 
 
 ---
 
 ## 🧩 **4. Principais Motivos de Cancelamento**
 
+
 Ao analisar os motivos de cancelamento, identificamos três fatores principais que explicam a insatisfação dos clientes:
+
 
 | Motivo                           | Casos Reportados |
 | -------------------------------- | ---------------- |
@@ -63,13 +64,13 @@ Ao analisar os motivos de cancelamento, identificamos três fatores principais q
 
 Esses problemas aparecem com frequência entre os usuários de **chips móveis**, reforçando o impacto negativo desse produto na taxa de churn.
 
-![cancelamentos_motivos](../Imagens/cancelamentos_motivos.png)
+<img width="528" height="448" alt="cancelamentos_motivos" src="https://github.com/user-attachments/assets/1f413ad9-6b40-4de5-b763-cc11588b7449" />
 
 ## 🔎 **5. Motivos de Cancelamento por Tipo de Dispositivo**
 
 Quando observamos os motivos de cancelamento por dispositivo, os chips móveis novamente aparecem como destaque negativo — concentrando a maioria dos relatos de insatisfação.
 
-![concelamento_motivos_dispositivos](../Imagens/concelamento_motivos_dispositivos.png)
+<img width="590" height="456" alt="concelamento_motivos_dispositivos" src="https://github.com/user-attachments/assets/86eea76b-ec58-42de-9498-4e058cf19a8c" />
 
 Essa sobreposição de fatores — **alto volume de vendas, baixo retorno e alta taxa de cancelamento** — torna o produto **um ponto crítico de atenção para a gestão.**
 
