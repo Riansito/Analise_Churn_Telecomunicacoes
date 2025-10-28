@@ -88,7 +88,8 @@ As tabelas foram estruturadas da seguinte forma:
 Essa modelagem permitiu criar **medidas DAX** e **relacionamentos entre tabelas**, otimizando as análises no Power Pivot e garantindo maior flexibilidade nas explorações via tabelas e gráficos dinâmicos.
 
 *Modelagem dos Dados*
-![Modelagem_dados](Imagens/modelagem_dados.png)
+<img width="1917" height="1018" alt="modelagem_dados" src="https://github.com/user-attachments/assets/9db7f9ca-43e4-4eec-b64d-c05df4d2572f" />
+
 ---
 
 ## 🧰 **Tecnologias Utilizadas**
