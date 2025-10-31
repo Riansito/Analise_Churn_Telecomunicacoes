@@ -119,6 +119,26 @@ Esses problemas aparecem com alta frequência entre os usuários de **chips móv
 
 ---
 
+## 🧾 **Resumo Final e Estratégias de Melhoria**
+
+A análise permitiu identificar o **“Chip Móvel”** como o principal responsável pelo alto índice de churn da empresa.
+Embora seja o produto mais vendido, apresenta **baixa rentabilidade** e **elevada taxa de cancelamento**, associada principalmente a **tarifas altas**, **ofertas mais vantajosas da concorrência** e **problemas de rede**.
+
+Com base nesses achados, algumas **estratégias de melhoria** foram propostas:
+
+* **Revisão dos planos e tarifas do Chip Móvel**, tornando-os mais competitivos no mercado;
+* **Investimento em infraestrutura de rede**, especialmente nas regiões com maior índice de cancelamento;
+* **Programas de fidelização e descontos personalizados** para clientes que demonstram risco de churn;
+* **Campanhas de retenção focadas em usuários do Chip Móvel**, com comunicação direcionada e benefícios adicionais;
+* **Monitoramento contínuo da taxa de churn** e análise preditiva para antecipar novos cancelamentos.
+
+### ✅ **Resultado Esperado**
+
+Com a aplicação dessas ações, espera-se **reduzir significativamente o churn do produto Chip Móvel** em aproximadamente **25%**, **aumentar a satisfação e a fidelização dos clientes** e, consequentemente, **melhorar a rentabilidade geral da empresa**.
+Além disso, a análise contínua permitirá **identificar rapidamente novas tendências de cancelamento**, tornando o processo de decisão mais ágil e estratégico.
+
+---
+
 ## 🧾 **Resumo Final**
 
 > A análise permitiu identificar o produto crítico e os principais fatores que impulsionam o churn, possibilitando decisões mais assertivas para reduzir cancelamentos e aumentar a retenção de clientes.
