@@ -115,6 +115,13 @@ Com base nos resultados, seguem **ações recomendadas** para reduzir o churn e 
 
 ---
 
+## 📊 **Resultado Global Esperado**
+
+Com a aplicação integrada dessas medidas, a empresa pode alcançar uma redução de até 25% na taxa geral de churn em um período de 6 a 12 meses, além de melhorar substancialmente os indicadores de satisfação, fidelização e rentabilidade.
+Essas ações combinam ajustes comerciais, técnicos e de relacionamento, resultando em uma estratégia de retenção completa e sustentável.
+
+---
+
 ## 🧾 **Conclusão**
 
 A análise mostrou que os **chips móveis** são o **principal foco de churn** na empresa.
